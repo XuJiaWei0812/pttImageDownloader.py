@@ -18,3 +18,6 @@
 
    ```bash
    python pttImageDownloader.py
+
+4. 執行後，您將在當前目錄下看到一個名為 `fetchAqiData.csv` 的新 CSV 檔案，其中包含從 API 獲取的空氣品質資料。
+
